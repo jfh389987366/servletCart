@@ -17,7 +17,7 @@ public class CartAction {
 
 	public void deleteCart(String username,String goodsname){
 		CartDao cd=new CartDao();
-		//ddddfff
+		//ddddffflo;iy6ju
 		cd.deleteCart(username, goodsname);
 	}
 	
