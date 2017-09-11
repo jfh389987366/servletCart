@@ -13,7 +13,7 @@ public class CartAction {
 		CartDao cd=new CartDao();
 		cd.add(userName1,goodsName1,goodsPrice1,goodsNumber1,goodsUrl1,goodsIntro1);
 	}
-	//aaaa
+	//aaaabbbb
 	//ffff
 	public void deleteCart(String username,String goodsname){
 		CartDao cd=new CartDao();
